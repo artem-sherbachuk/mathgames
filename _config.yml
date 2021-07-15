@@ -55,7 +55,7 @@ features                                  :
 
   - title                                 : No Internet required.
     description                           : 
-    fontawesome_icon_name                 : wifi-slash
+    fontawesome_icon_name                 : wifi
 
 
   - title                                 : # New Feature Title
